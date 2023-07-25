@@ -82,7 +82,6 @@ li a:active{
   background-size: 20% auto;
   color: #fff;
   background-clip: text;
-  text-fill-color: transparent;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   animation: textclip 10s linear infinite;
@@ -95,7 +94,6 @@ li a:active{
 
     text-decoration: none;
     list-style: none;
-    color: ;
     background-color: blue;
     padding: 5px;
 }
@@ -174,13 +172,18 @@ li a:active{
     margin-top: 0px;
     padding-top: 0px;
 }
-.content h1{
+.content h1 #wrapper{
     margin-left: 50px;
     margin-top: 0px;
     font-size: 4.5em;
     font-weight: lighter;
     font-family: fantasy;
-    color:rgb(152, 201, 168);
+    color: linear-gradient(15deg,
+        #e46db8 0%,
+        #f18f57 29%,
+        #f06501 67%,
+        #f7f7ff 100%
+      );
     
 }
 h2{
@@ -223,9 +226,7 @@ p a{
 }
 
 .about > div{
-    /*background-color: rgb(238, 228, 88);
-    */
-    
+    background-color: rgb(238, 228, 88);
 }
 /*.about{
     display: flex;
@@ -310,7 +311,7 @@ p a{
     margin-right: 75px;
 }
 #footer{
-    background-color: rgb(84, 84, 84);
+    background-color: rgb(160, 160, 160);
 }
 #copyright{
     padding-left: 10px;
@@ -388,7 +389,7 @@ p a{
 #service{
 	background-color:rgb(176, 174, 106);
 	animation-name: example;
-	animation-duration: 10s;
+	animation-duration: 5s;
 	
   }
   

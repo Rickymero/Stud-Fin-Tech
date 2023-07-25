@@ -21,9 +21,9 @@
                     <i class="fas fa-bars"></i>  
                 </label>    
                 <li>
-                    <ul><a href="gallery.php"><!--<i class="fa-brands fa-envira"></i>-->&nbsp;DONATE</a></ul>
-                    <ul><a href="#service"><!--<i class="fa-solid fa-blender-phone"></i>-->&nbsp;REGISTER</a></ul>
-                    <ul><a href=""><!--<i class="fa-solid fa-location-arrow"></i>-->&nbsp;SERVICES</a></ul>
+                    <ul><a href=""><!--<i class="fa-brands fa-envira"></i>-->&nbsp;DONATE</a></ul>
+                    <ul><a href="register.php"><!--<i class="fa-solid fa-blender-phone"></i>-->&nbsp;REGISTER</a></ul>
+                    <ul><a href="#"><!--<i class="fa-solid fa-location-arrow"></i>-->&nbsp;SERVICES</a></ul>
                     <ul><a href="tel:+27 76 359 0122"><!--<i class="fas fa-mobile-alt"></i>--> <span class="ml-1">CONTACT US</span></a></ul>
                     
                 </li>

@@ -172,18 +172,13 @@ li a:active{
     margin-top: 0px;
     padding-top: 0px;
 }
-.content h1 #wrapper{
+.content h1{
     margin-left: 50px;
     margin-top: 0px;
     font-size: 4.5em;
     font-weight: lighter;
     font-family: fantasy;
-    color: linear-gradient(15deg,
-        #e46db8 0%,
-        #f18f57 29%,
-        #f06501 67%,
-        #f7f7ff 100%
-      );
+    color: rgb(233, 129, 129);
     
 }
 h2{
